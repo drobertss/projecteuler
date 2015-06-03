@@ -32,11 +32,14 @@ public class proj_euler {
 		//	System.out.println(five());
 
 		//	System.out.println(six());
-
-		//System.out.println(seven());
+		//long start_time= System.currentTimeMillis();
+		//seven();
+		//System.out.println(System.currentTimeMillis() - start_time);
 
 	}
 
+	
+	
 	
 	//What is the 10 001st prime number?
 	public static long seven(){
